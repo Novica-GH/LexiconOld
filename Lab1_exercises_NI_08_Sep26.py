@@ -509,11 +509,11 @@
 # F.4 Write five short'predict before running'examples that you could give to another student.
 #     Include at least one type conversation and two string slices.
 
-text_1 = "TooMuch, Simon says, 2 much. "
-text_2 = "I think this is enough, after 1st round, said, Novak said." 
-text_3 = "US Open is playing now, September 2026!"
-text_4 = "One is going to be the best! F4 for the final test."
-text_5 = "Lines 516 or 519, for the time been, bean, but not Mr. Bean!"
+#text_1 = "TooMuch, Simon says, 2 much. "
+#text_2 = "I think this is enough, after 1st round, said, Novak said." 
+#text_3 = "US Open is playing now, September 2026!"
+#text_4 = "One is going to be the best! F4 for the final test."
+#text_5 = "Lines 516 or 519, for the time been, bean, but not Mr. Bean!"
 
 # 
 # ************************************************************************************************** 
